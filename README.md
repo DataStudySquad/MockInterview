@@ -18,9 +18,20 @@ repo for DS team Mock Interview plan
 8. Past project experiences
 
 ## Method 
-- dev 
+- once per week
+- mock interview based on subjects (but not limited to) 
+- 90 minutes (30 minutes per round, 30 minutes for feedback)
+- feedback
 
 ## Process 
 - [MockInterview-project](https://github.com/DataStudySquad/MockInterview/projects/1)
 
 ## Resources
+- https://www.edureka.co/blog/interview-questions/data-science-interview-questions/
+- https://www.educba.com/computer-science-interview-questions/
+- https://www.edureka.co/blog/interview-questions/sql-interview-questions
+- https://leetcode.com/
+
+## Tool 
+- https://coderpad.io/
+- https://codeshare.io/
