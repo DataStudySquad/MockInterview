@@ -1,5 +1,7 @@
 # MockInterview
 repo for DS team Mock Interview plan
+- [Mock Interview](https://hackmd.io/BtDBlBIsSz23AnwKotD_CA)
+- [Learn the A to Z of Amazon Web Services (AWS)](https://hackmd.io/THfo3_3UQ0WH9CgGpfVJDQ)
 
 ## Subject 
 
