@@ -1,5 +1,5 @@
 # MockInterview
-repo for Mock Interview plan
+DSS Mock Interview Plan
 
 ## Subject 
 
@@ -13,9 +13,9 @@ repo for Mock Interview plan
 ## Method
 - 2 people as a group
 - once per week
-- mock interview based on subjects above (but not limited) 
 - 90 minutes (30 minutes per round, 30 minutes for feedback)
-- 2 easy or 1 easy + medium (for LC)
+- mock interview based on subjects above (but not limited) 
+- 2 easy or 1 easy + 1 medium (LC)
 - feedback/discussion
 
 ## Process 
