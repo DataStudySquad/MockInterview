@@ -3,25 +3,20 @@ repo for Mock Interview plan
 
 ## Subject 
 
-1. General CS questions
+1. LC
+2. Data structure & algorithm
+3. General CS questions
+4. System design
+5. SQL/database
+6. Past project experiences
 
-2. SQL/database
-
-3. General data quesitons
-
-4. Programming: Python/...
-
-5. Data structure & algorithm
-
-6. System design
-
-8. Past project experiences
-
-## Method 
+## Method
+- 2 people as a group
 - once per week
-- mock interview based on subjects (but not limited to) 
+- mock interview based on subjects above (but not limited) 
 - 90 minutes (30 minutes per round, 30 minutes for feedback)
-- feedback
+- 2 easy or 1 easy + medium (for LC)
+- feedback/discussion
 
 ## Process 
 - [MockInterview-project](https://github.com/DataStudySquad/MockInterview/projects/1)
