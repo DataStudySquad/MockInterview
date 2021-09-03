@@ -35,3 +35,6 @@ repo for Mock Interview plan
 ## Tool 
 - https://coderpad.io/
 - https://codeshare.io/
+
+## Shared Doc
+- https://docs.google.com/document/d/1educqHcbCt7aAR4BeB46dtKbMcNFWresDXUKcXMF55E/edit
