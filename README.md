@@ -2,7 +2,6 @@
 DSS Mock Interview Plan
 
 ## Subject 
-
 1. LC
 2. Data structure & algorithm
 3. General CS questions
@@ -30,6 +29,7 @@ DSS Mock Interview Plan
 ## Tool 
 - https://coderpad.io/
 - https://codeshare.io/
+- http://sqlfiddle.com/
 
 ## Shared Doc
 - https://docs.google.com/document/d/1educqHcbCt7aAR4BeB46dtKbMcNFWresDXUKcXMF55E/edit
