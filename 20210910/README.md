@@ -9,3 +9,6 @@
 
 #### V
 - easy
+  - https://leetcode.com/problems/search-insert-position/
+- medium
+  - https://leetcode.com/problems/next-permutation/ 
