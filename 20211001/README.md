@@ -8,3 +8,6 @@
   - [394 Decode String](https://leetcode.com/problems/decode-string/)
 
 #### V
+- easy
+  - 389. Find the Difference https://leetcode.com/problems/find-the-difference/
+  - 383. Ransom Note https://leetcode.com/problems/ransom-note/
