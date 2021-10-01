@@ -9,5 +9,5 @@
 
 #### V
 - easy
-  - 389. Find the Difference https://leetcode.com/problems/find-the-difference/
-  - 383. Ransom Note https://leetcode.com/problems/ransom-note/
+  - [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
+  - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
