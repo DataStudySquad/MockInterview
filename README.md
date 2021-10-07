@@ -1,7 +1,7 @@
 # MockInterview
 DSS Mock Interview Plan
 
-## Subject 
+## Subjects 
 1. LC
 2. Data structure & algorithm
 3. General CS questions
@@ -12,7 +12,7 @@ DSS Mock Interview Plan
 ## Method
 - 2 people as a group
 - once per week
-- 90 minutes (30 minutes per round, 30 minutes for feedback)
+- 120 minutes (45 minutes per round, 30 minutes for feedback)
 - mock interview based on subjects above (but not limited) 
 - 2 easy or 1 easy + 1 medium (LC)
 - feedback/discussion
