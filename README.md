@@ -21,15 +21,21 @@ DSS Mock Interview Plan
 - [MockInterview-project](https://github.com/DataStudySquad/MockInterview/projects/1)
 
 ## Resources
-- https://www.edureka.co/blog/interview-questions/data-science-interview-questions/
-- https://www.educba.com/computer-science-interview-questions/
-- https://www.edureka.co/blog/interview-questions/sql-interview-questions
-- https://leetcode.com/
+- CS
+  - https://www.educba.com/computer-science-interview-questions/
+  - https://www.edureka.co/blog/interview-questions/sql-interview-questions
+- LC
+  - https://leetcode.com/
+- Ststem Design
 
 ## Tool 
-- https://coderpad.io/
-- https://codeshare.io/
-- http://sqlfiddle.com/
+- code co-work editor
+  - https://coderpad.io/
+  - https://codeshare.io/
+- SQL engine
+  - http://sqlfiddle.com/
+- DB modeling
+  - https://dbdiagram.io/home
 
 ## Shared Doc
 - https://docs.google.com/document/d/1educqHcbCt7aAR4BeB46dtKbMcNFWresDXUKcXMF55E/edit
