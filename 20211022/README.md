@@ -13,7 +13,9 @@
 
 #### V
 - easy
-  - [Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
   - [Best time to buy and sell sock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [Valid perfect square](https://leetcode.com/problems/valid-perfect-square/)
   - [First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+- medium
+  - [Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
