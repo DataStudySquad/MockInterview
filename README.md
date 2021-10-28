@@ -26,6 +26,7 @@ DSS Mock Interview Plan
   - https://www.edureka.co/blog/interview-questions/sql-interview-questions
 - LC
   - https://leetcode.com/
+  - https://techinterviewhandbook.org/
 - Ststem Design
 
 ## Tool 
