@@ -27,6 +27,7 @@ DSS Mock Interview Plan
 - LC
   - https://leetcode.com/
   - https://techinterviewhandbook.org/
+  - https://blog.csdn.net/a435262767/article/details/105204690 : LC high freq1
 - Ststem Design
 
 ## Tool 
