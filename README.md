@@ -30,6 +30,8 @@ DSS Mock Interview Plan
   - https://techinterviewhandbook.org/
   - https://blog.csdn.net/a435262767/article/details/105204690 : LC high freq1
 - Ststem Design
+- Experiences
+  - https://www.jiuzhang.com/story/?page=1
 
 ## Tool 
 - code co-work editor
