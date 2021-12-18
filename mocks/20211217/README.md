@@ -11,8 +11,10 @@
 - Ref
   - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
     - progress :
-      - Tree
-        - Add and Search Word
+        - Tree
+        - Heap
+      - Next:
+        - String
       - TODO :
         - Linked List
         - Matrix
