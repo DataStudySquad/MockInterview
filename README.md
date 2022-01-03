@@ -48,3 +48,4 @@ DSS Mock Interview Plan
 ## Shared Doc
 - https://docs.google.com/document/d/1educqHcbCt7aAR4BeB46dtKbMcNFWresDXUKcXMF55E/edit
 - https://interview.leetcode.com/interview/detail/ePMZYu/
+- https://miro.com/app/board/uXjVOYST6rc=/ : miro
