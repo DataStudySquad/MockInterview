@@ -5,6 +5,8 @@
   - Design key-value storage system
   - Design ID generator
   - Design URL shortening service
+  - Design web crawler
+  - Design twitter
 - LC
   - String
     - Valid Anagram - https://leetcode.com/problems/valid-anagram/
