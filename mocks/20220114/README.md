@@ -3,6 +3,9 @@
 #### Y
 - System Design
   - Design twitter
+  - autocomplete search
+  - Scrapper
+  - chat app
 - LC
   - String
      - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
