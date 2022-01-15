@@ -2,13 +2,9 @@
 
 #### Y
 - System Design
-  - Design twitter
-  - autocomplete search
-  - Scrapper
   - chat app
 - LC
   - String
-     - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
      - Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
   - Matrix
      - Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
