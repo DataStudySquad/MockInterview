@@ -15,6 +15,12 @@ DSS Mock Interview Plan
 - 120 minutes (45 minutes per round, 30 minutes for feedback)
 - mock interview based on subjects above (but not limited) 
 - 2 easy or 1 easy + 1 medium (LC)
+  - LC workflow
+    - high level idea : data structure, algorithm
+    - offer time & space complexity
+    - code implementation
+    - offer test case (consider edge case)
+    - discussion & follow up
 - feedback/discussion
 
 ## Process 
