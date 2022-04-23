@@ -12,8 +12,6 @@
     - 011
     - 015
     - 017
-    - 019
-
   - Ref
     - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
       - progress :
