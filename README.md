@@ -42,6 +42,10 @@ DSS Mock Interview Plan
   - https://www.jiuzhang.com/story/?page=1
 - Eng roadmap
   - https://roadmap.sh/
+- LC pattern
+  - https://www.youtube.com/watch?v=fvIrI4ph1lA&list=PLV5qT67glKSErHD66rKTfqerMYz9OaTOs&index=1
+- Mock group
+  - https://turingplanet.org/2021/07/09/algo-group-intro/#shua_ti_xiao_zu_shen_qing_biao_ge
 
 ## Tool
 - Online interview tool (interactive)
