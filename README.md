@@ -46,7 +46,10 @@ DSS Mock Interview Plan
   - https://www.youtube.com/watch?v=fvIrI4ph1lA&list=PLV5qT67glKSErHD66rKTfqerMYz9OaTOs&index=1
 - Mock group
   - https://turingplanet.org/2021/07/09/algo-group-intro/#shua_ti_xiao_zu_shen_qing_biao_ge
-
+- LC mindset
+  - [演算法學習之-Leetcode-破關總指南 pt.1](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%B8%80-873b3fb65152)
+  - [演算法學習之-Leetcode-破關總指南 pt.2](https://arthur-lin.medium.com/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%BA%8C-73a1216dbfef)
+  - [演算法學習之-Leetcode-破關總指南 pt.3](https://arthur-lin.medium.com/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%B8%89-7f0958d176da)
 ## Tool
 - Online interview tool (interactive)
   - https://interview.leetcode.com/interview/
