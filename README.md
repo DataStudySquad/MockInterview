@@ -38,6 +38,7 @@ DSS Mock Interview Plan
   - https://techinterviewhandbook.org/
   - https://blog.csdn.net/a435262767/article/details/105204690 : LC high freq1
 - Ststem Design
+  - [ByteByteGo youtube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
 - Experiences
   - https://www.jiuzhang.com/story/?page=1
 - Eng roadmap
