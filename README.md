@@ -31,9 +31,11 @@ DSS Mock Interview Plan
   - https://www.educba.com/computer-science-interview-questions/
   - https://www.edureka.co/blog/interview-questions/sql-interview-questions
 - LC
-  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU :  New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions
-  - https://leetcode.com/problem-list/top-100-liked-questions/?page=1&fbclid=IwAR2MzUDDOscDklba5gL815lkLKzxK-zOR2WV2-W80_gRmvtfAsNWyut_USw : LC top-100-liked-questions
-  - https://leetcode.com/discuss/interview-question/1376426/Facebook-or-Interview-questions-or-July-2020-July-2021/1033957
+  - [grind75](https://www.techinterviewhandbook.org/grind75)
+  - [LC blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+  - [https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU](New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions)
+  - [https://leetcode.com/problem-list/top-100-liked-questions/?page=1&fbclid=IwAR2MzUDDOscDklba5gL815lkLKzxK-zOR2WV2-W80_gRmvtfAsNWyut_USw](LC top-100-liked-questions)
+  - [https://leetcode.com/discuss/interview-question/1376426/Facebook-or-Interview-questions-or-July-2020-July-2021/1033957](Facebook-or-Interview-questions-or-July-2020-July-2021)
   - https://leetcode.com/
   - https://techinterviewhandbook.org/
   - https://blog.csdn.net/a435262767/article/details/105204690 : LC high freq1
