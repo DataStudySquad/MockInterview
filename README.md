@@ -41,6 +41,8 @@ DSS Mock Interview Plan
   - https://blog.csdn.net/a435262767/article/details/105204690 : LC high freq1
 - Ststem Design
   - [ByteByteGo youtube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
+  - [designgurus](https://designgurus.org/)
+  - [Grokking System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - Experiences
   - https://www.jiuzhang.com/story/?page=1
 - Eng roadmap
