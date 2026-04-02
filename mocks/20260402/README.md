@@ -15,6 +15,4 @@
   - needcode.io
   - LC 003  Longest Substring Without Repeating Characters
     - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
-  - LC 128 Longest Consecutive Sequence
-    - https://leetcode.com/problems/longest-consecutive-sequence/description/
   - LC 49. Group Anagrams
