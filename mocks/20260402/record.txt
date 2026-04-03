@@ -1,0 +1,282 @@
+17:17 - 18:02
+
+https://leetcode.ca/all/582.html
+
+582. Kill Process
+Given n processes, each process has a unique PID (process id) and its PPID (parent process id).
+Each process only has one parent process, but may have one or more children processes. This is just like a tree structure. Only one process has PPID that is 0, which means this process has no parent process. All the PIDs will be distinct positive integers.
+We use two list of integers to represent a list of processes, where the first list contains PID for each process and the second list contains the corresponding PPID.
+Now given the two lists, and a PID representing a process you want to kill, return a list of PIDs of processes that will be killed in the end. You should assume that when a process is killed, all its children processes will be killed. No order is required for the final answer.
+Example 1:
+// { node: [ sub_node_1, sub_node_2… ] }
+
+{ 3: [1,5,10 ],  5: [10], 1:[]  }
+
+
+
+
+
+
+
+
+
+Input:
+ppid = [3, 0, 5, 3]
+pid =  [1, 3, 10, 5]
+kill = 5
+Output: [5,10]
+Explanation:
+           3
+         /   \
+        1     5
+             /
+            10
+Kill 5 will also kill 10.
+
+Note:
+The given kill id is guaranteed to be one of the given PIDs.
+n >= 1.
+
+{ 3: [1,5,10 ],  5: [10], 1:[]  }
+union find -> 
+2           1        ->   2 
+                            1
+                          3
+             3 
+1
+
+ 
+
+
+// { node: [ sub_node_1, sub_node_2… ] }
+// DFS   or BFS or UNION FIND
+
+// time: O(N) + O(N) ~= O(N)
+// space: O(N)
+
+
+/** 
+
+Each process only has ONE parent process
+Each process has one ore more child processes
+ PID: process ID, PPID:  parent process ID
+PPID =0 -> NO parent process
+ list 1= PID, list2 = PPID
+process is killed, all its children processes will be killed.
+order is NOT needed
+
+-> Now given the two lists, and a PID representing a process you want to kill, return a list of PIDs of processes that will be killed in the end.
+
+*/
+
+
+pid =  [1, 3, 10, 5]
+ppid = [3, 0, 5, 3]
+kill = 5
+
+
+pid =  [1, 3, 10, 5]
+ppid = [3, 0, 5, 3]
+kill = 10
+
+pid =  [1, 3, 10, 5, 1]
+ppid = [3, 0, 5, 3, 6]
+kill = 6
+
+
+pid =  [2]
+ppid = [1]
+kill = 3
+
+pid =  [2]
+ppid = [1]
+kill = 1
+
+pid =  [2]
+ppid = [1]
+kill = 2
+
+pid =  [2,3]
+ppid = [3,4]
+kill = 3
+
+     4
+  3
+2 
+
+
+—-------------------------
+
+
+// { node: [ sub_node_1, sub_node_2… ] }
+//Map<Integer, List<Integer>> map = new HashMap();
+ List<Integer> res = New ArrayList();
+public List<Integer> killProcess(List<Integer> pid, List<Integer> ppid, int kill) {
+     // edge
+// NOT in both pid and ppid
+     if(! pid.contains(kill)  &&  ! ppid.contains(kill) ){
+         return;
+    }
+// only  in pid
+   if(! ppid.contains(kill)){
+        res.add(kill);
+    }
+  
+   // get all kill node idx 
+   for(int i = 0; i < ppid.len(); i++){ 
+
+           if(ppid.get(i) == kill){
+              dfsHelper(pid, ppid, kill, i, true);
+         }
+     }
+   return res;
+  }
+
+private void dfsHelper(List<Integer> pid, List<Integer> ppid, int kill, int idx, boolean isFound){
+     // edge
+     if(! pid.contains(kill)  &&  ! ppid.contains(kill) ){
+         return;
+    }
+
+    int x = ppid.get(i);
+    if (x == kill || isFound){
+         if(!res.contains(k){
+                 res.add(k);
+           }
+           // recursion
+               dfsHelper(pid, ppid, pid.get(x), idx, true);
+            }  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16:32 - 17:17 pm
+
+
+3. Longest Substring Without Repeating Characters
+Solved
+Medium
+
+Hint
+Given a string s, find the length of the longest substring without duplicate characters.
+ 
+Example 1:
+Input: s = "abcabcabb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3. Note that "bca" and "cab" are also correct answers.
+
+Example 2:
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+
+Example 3:
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+
+“abcc”
+ 
+Constraints:
+0 <= s.length <= 5 * 104
+s consists of English letters, digits, symbols and spaces.
+
+
+"dvdf"
+"abba"
+“bababb”
+
+
+
+class Solution:
+      def LongestSubstringWithoutRepeatingCharacters(self, s):
+            last_seen = {}
+            max_length = 0
+            start = 0
+            for i, c in enumerate(s):
+                if c in last_seen and last_seen[c]>=start:
+                      start = last_seen[c]+1
+                else:
+	          max_length = max(max_length, i-start+1)
+                 last_seen[c] = i
+                
+           return max_length
+
+
+s= “abcc”
+i = 0
+c= ‘a’
+longest[‘a’] = 0
+max_length = max(max_length, 0-0+1) = 1
+
+i = 1
+c = ‘b’
+longest[‘b’] = 1
+max_length = max(max_length, 1-0+1) = 2
+
+max_length = 3
+i = 3
+c = ‘c’
+longest[‘c’] = 2 >= start =0
+start = 2+1 =3
+max_length = max(max_length, 3-3+1) = 3
+
+
+s = "tmmzuxt"
+s = “t”
+start = 2
+last_seen[‘t’] =0 
+
+ 
+
