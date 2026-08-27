@@ -60,6 +60,14 @@ DSS Mock Interview Plan
 - LC contest
   - https://leetcode.com/contest/
   - https://leetcode.com/problem-list/challenges-for-new-users/
+- LC top 500 likes
+```
+- https://leetcode.com/problem-list/79h8rn6/
+- https://leetcode.com/discuss/post/4632243/leetcode-most-liked-questions-1-100-by-a-4b0z/
+- https://leetcode.com/discuss/post/4632259/leetcode-most-liked-questions-101-200-by-p43l/
+- https://leetcode.com/discuss/post/4632262/leetcode-most-liked-questions-201-300-by-enwb/
+- https://leetcode.com/discuss/post/4632275/leetcode-most-liked-questions-401-500-by-15je/
+```
 ## Tool
 - Online interview tool (interactive)
   - https://interview.leetcode.com/interview/
